@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
-import './App.css';
-import { listener} from "./lib/messaging";
+import { listener} from "project-lib/messaging";
 
 const App = () => {
   const [parentMessage, setParentMessage] = useState("");

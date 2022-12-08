@@ -1,8 +1,9 @@
 {
   "name": "project-lib",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Common library for microfrontend",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

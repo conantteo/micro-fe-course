@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import { broadcaster } from "./lib/messaging";
+import { broadcaster } from "project-lib/messaging";
 
 const IFrameComponent = ({ title, src}) => {
 
